@@ -1,2 +1,4 @@
 # React-Challenge2-DateCounter
-Created with CodeSandbox
+- Simple React date counter challenge using states and  controlled elements concepts
+
+  - Created with CodeSandbox
