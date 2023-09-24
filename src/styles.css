@@ -4,7 +4,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  /* height: 100vh; */
+  margin: 50px 0;
   flex-direction: column;
 }
 
@@ -20,4 +21,10 @@
 .counter {
   margin: 0 20px;
   color: #cb3837;
+}
+.range {
+  accent-color: #cb3837;
+  outline: none;
+  border: none;
+  cursor: pointer;
 }
