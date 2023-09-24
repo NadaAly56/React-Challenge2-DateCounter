@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.btn {
+  width: 50px;
+  height: 30px;
+  color: #cb3837;
+  border: 1px solid #cb3837;
+  border-radius: 7px;
+  background-color: transparent;
+  cursor: pointer;
+}
+.counter {
+  margin: 0 20px;
+  color: #cb3837;
+}
